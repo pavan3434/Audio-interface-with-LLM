@@ -1,0 +1,5 @@
+Flask==2.3.3
+vertexai
+google-cloud-aiplatform==1.71.1
+Werkzeug>=2.3.7
+gunicorn==22.0.0
